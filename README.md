@@ -4,6 +4,15 @@ Lab work for **CSC 309 Artificial Intelligence** (2 units; LH 15, PH 45), Depart
 
 The twelve notebooks are the practical half of the course. Each one matches a chapter of the class note in `docs/` (same weeks, same notation, same worked numbers) and the CCMAS learning outcomes (LO 1 to LO 8).
 
+
+## 📘 Class note
+
+The full CSC 309 class note (all 12 weeks, worked examples and exercises) is available as a Google Doc:
+
+[![Open the class note](https://img.shields.io/badge/Class%20Note-Google%20Docs-4285F4?logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1kOxyaQ7n3Tjzf25FPcv1SvrX6AxhJ_t5NzmRL1DkIv0/edit?tab=t.0)
+
+Use the note together with the notebooks: read the week's section first, then open that week's notebook in Colab.
+
 ## Weekly plan
 
 | Week | Topic | CCMAS LO | Open in Colab |
