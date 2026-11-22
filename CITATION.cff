@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite them as below."
+title: "CSC 309 Artificial Intelligence: Practical Notebooks"
+type: software
+authors:
+  - family-names: "Folorunso"
+    given-names: "Sakinat"
+    affiliation: "Olabisi Onabanjo University, Ago-Iwoye, Nigeria"
+repository-code: "https://github.com/Sakinat-Folorunso/OOU_CSC309_Artificial_Intelligence"
+license: MIT
